@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>locaweb.github.com/pear</name>
+  <summary>Locaweb Pear Channel</summary>
+  <alias>locaweb</alias>
+  <url>http://locaweb.github.com/pear</url>
+</server>

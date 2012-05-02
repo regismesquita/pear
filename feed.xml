@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://locaweb.github.com/pear</id>
+    <updated>2012-04-25T17:21:46-03:00</updated>
+    <title>Locaweb Pear Channel Latest Releases</title>
+    <link href="http://locaweb.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://locaweb.github.com/pear</name>
+    </author>
+
+
+</feed>
