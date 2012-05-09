@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>LocawebGateway</name>
+ <channel>locaweb.github.com/pear</channel>
+ <summary>LocawebGateway is a php connector to Locaweb Payment Gateway.</summary>
+ <description>LocawebGateway is a php connector to Locaweb Payment Gateway.</description>
+ <lead>
+  <name>Locaweb</name>
+  <user>locaweb</user>
+  <email>locaweb@locaweb.com.br</email>
+  <active>yes</active>
+ </lead>
+ <date>2012-05-09</date>
+ <time>19:07:21</time>
+ <version>
+  <release>0.1.1</release>
+  <api>0.1.1</api>
+ </version>
+ <stability>
+  <release>beta</release>
+  <api>beta</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/mit-license.php">MIT</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="665a25a9b683111077d04b5d4fb382be" name="LICENSE" role="doc" />
+   <file md5sum="c98d7e8eb5c911131e4f172a3f13e0a8" name="README.md" role="doc" />
+   <file md5sum="86bc0538d9716d98a9101b22991273a1" name="LocawebGatewayConfig.inc.php" role="php" />
+   <file md5sum="d32dcca070b9e47dd7395f4d91a6456d" name="LocawebGatewayPayment.php" role="php" />
+   <file md5sum="e3354e104dedabf5f1a98afce709caec" name="LocawebGateway.php" role="php" />
+   <file md5sum="5af81c01ce4829dda6c9fd2e4cb12f0a" name="LocawebGatewayProcessor.php" role="php" />
+   <file md5sum="75a8a17a65e539c9d230ef8c3741fb3b" name="LocawebGatewayRequest.php" role="php" />
+   <file md5sum="906af2d14a9cdf9e68dfc1499977b0ba" name="SimpleRestClient.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3.0</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+</package>

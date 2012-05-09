@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/locawebgateway">LocawebGateway</p>
+    <c>locaweb.github.com/pear</c>
+    <v>0.1.1</v>
+    <st>beta</st>
+    <l>MIT</l>
+    <m>locaweb</m>
+    <s>LocawebGateway is a php connector to Locaweb Payment Gateway.</s>
+    <d>LocawebGateway is a php connector to Locaweb Payment Gateway.</d>
+    <da>2012-05-09 19:07:21</da>
+    <n>
+-
+ </n>
+    <f>8441</f>
+    <g>http://locaweb.github.com/pear/get/LocawebGateway-0.1.1</g>
+    <x xlink:href="package.0.1.1.xml"/>
+</r>
